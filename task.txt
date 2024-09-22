@@ -1,0 +1,5 @@
+Get => /user :get all user
+Get => /user/1 :get user with id 1
+post => /user/2 : add user with id 2
+patch => /user/3 : update exesting record with id 3
+delete => /user/4 : delete exesting record with id 4
